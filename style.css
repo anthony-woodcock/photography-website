@@ -113,3 +113,42 @@ nav:hover ul {
 	margin: 50px 0 0 50px;
 }
 /* End nav */
+.left-col {
+	width: 60%;
+	float: left;
+	margin: 4% 0 4% 4%;
+}
+.sidebar {
+	width: 26%;
+	float: left;
+	margin: 4%;
+}
+.one-third-port {
+	width: 29.333333%;
+	padding: 2%;
+	float: left;
+}
+.one-third-port img:hover {
+	opacity: 0.6;
+}
+.contact p {
+	text-align: center;
+	letter-spacing: 5px;
+}
+.contact a {
+	color: #2C2C2C;
+}
+.break {
+	display: none;
+}
+.clearfix {
+	clear: both;
+	height: 3%;
+}
+.parallax {
+	background: url("https://images.pexels.com/photos/700974/pexels-photo-700974.jpeg") repeat fixed 100%;
+	opacity: 0.5;
+}
+.parallax-inner {
+	padding-top: 17%;
+}
